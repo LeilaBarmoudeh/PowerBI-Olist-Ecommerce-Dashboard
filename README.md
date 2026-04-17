@@ -21,6 +21,9 @@ The goal of this dashboard is to demonstrate core data analytics skills includin
 
 This dashboard is created as part of my portfolio to showcase my ability to analyze e‑commerce performance, delivery reliability, seller behavior, and customer demand patterns.
 
+<img width="1500" height="852" alt="image" src="https://github.com/user-attachments/assets/955fe400-1d82-484a-a644-ccc73c6f4919" />
+
+
 Dataset Description  
 Source: *Brazilian E‑Commerce Public Dataset by Olist (Kaggle)*  
 The dataset contains 100k+ real e‑commerce orders from 2016–2018 and includes:
